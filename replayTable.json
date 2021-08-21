@@ -3,70 +3,70 @@
     {
       "player": "DjFrytek",
       "time": 2.38,
-      "sceneID": 1,
+      "sceneID": "Level1",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/1djfrytek2-38.json"
     },
     {
       "player": "DjFrytek",
       "time": 17.60,
-      "sceneID": 5,
+      "sceneID": "Level5",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/5djfrytek17-60.json"
     },
     {
       "player": "DjFrytek",
       "time": 12.35,
-      "sceneID": 5,
+      "sceneID": "Level5",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/5djfrytek12-35.json"
     },
     {
       "player": "DjFrytek",
       "time": 14.35,
-      "sceneID": 5,
+      "sceneID": "Level5",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/5djfrytek14-35.json"
     },
     {
       "player": "Arraver",
       "time": 2.42,
-      "sceneID": 1,
+      "sceneID": "Level1",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/1arraver2-42.json"
     },
     {
       "player": "Kanar",
       "time": 2.43,
-      "sceneID": 1,
+      "sceneID": "Level1",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/1kanar2-43.json"
     },
     {
       "player": "Jonek",
       "time": 2.60,
-      "sceneID": 1,
+      "sceneID": "Level1",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/1jonek2-60.json"
     },
     {
       "player": "DjFrytek",
       "time": 5.2,
-      "sceneID": 2,
+      "sceneID": "Level2",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/2djfrytek5-20.json"
     },
     {
       "player": "DjFrytek",
       "time": 3.55,
-      "sceneID": 3,
+      "sceneID": "Level3",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/3djfrytek3-55.json"
     },
     {
       "player": "DjFrytek",
       "time": 6.48,
-      "sceneID": 4,
+      "sceneID": "Level4",
       "date": "20.08.2021",
       "replayLink": "https://djfrytek.github.io/replays/4djfrytek6-48.json"
     }
