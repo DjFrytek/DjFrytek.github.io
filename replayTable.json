@@ -5,21 +5,28 @@
       "time": 2.43,
       "sceneID": 1,
       "date": "20.08.2021",
-      "replayLink": "https://api.jsonbin.io/b/612021452aa80036126d46b0"
-    },
-    {
-      "player": "Kanar",
-      "time": 3.78,
-      "sceneID": 1,
-      "date": "20.08.2021",
-      "replayLink": "https://api.jsonbin.io/b/612021b8c5159b35ae018772"
+      "replayLink": "https://djfrytek.github.io/replays/1djfrytek2-43.json"
     },
     {
       "player": "DjFrytek",
       "time": 5.2,
       "sceneID": 2,
       "date": "20.08.2021",
-      "replayLink": "https://api.jsonbin.io/b/61202e4fc5159b35ae018b8e"
+      "replayLink": "https://djfrytek.github.io/replays/2djfrytek5-20.json"
+    },
+    {
+      "player": "DjFrytek",
+      "time": 3.55,
+      "sceneID": 3,
+      "date": "20.08.2021",
+      "replayLink": "https://djfrytek.github.io/replays/3djfrytek3-55.json"
+    },
+    {
+      "player": "DjFrytek",
+      "time": 6.48,
+      "sceneID": 4,
+      "date": "20.08.2021",
+      "replayLink": "https://djfrytek.github.io/replays/4djfrytek6-48.json"
     }
   ]
 }
