@@ -1,18 +1,25 @@
 {
   "replays": [
     {
-      "player": "DjFrytek",
-      "time": 2.38,
-      "sceneID": "Level1",
-      "date": "20.08.2021",
-      "replayLink": "https://djfrytek.github.io/replays/1djfrytek2-38.json"
-    },
-    {
       "player": "NICKNAME",
       "time": 5000000000000,
       "sceneID": "LEVELNAME",
       "date": "DATE",
       "replayLink": "LINK TO THE REPLAY"
+    },
+    {
+      "player": "Pitek",
+      "time": 2.38,
+      "sceneID": "Level1",
+      "date": "25.08.2021",
+      "replayLink": "https://djfrytek.github.io/replays/1pitek2-38.json"
+    },
+    {
+      "player": "DjFrytek",
+      "time": 2.38,
+      "sceneID": "Level1",
+      "date": "20.08.2021",
+      "replayLink": "https://djfrytek.github.io/replays/1djfrytek2-38.json"
     },
     {
       "player": "Arraver",
