@@ -8,6 +8,13 @@
       "replayLink": "https://djfrytek.github.io/replays/1djfrytek2-38.json"
     },
     {
+      "player": "NICKNAME",
+      "time": 5000000000000,
+      "sceneID": "LEVELNAME",
+      "date": "DATE",
+      "replayLink": "LINK TO THE REPLAY"
+    },
+    {
       "player": "DjFrytek",
       "time": 11.62,
       "sceneID": "Hell4",
