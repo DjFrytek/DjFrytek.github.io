@@ -8,6 +8,20 @@
       "replayLink": "LINK TO THE REPLAY"
     },
     {
+      "player": "Markos",
+      "time": 2.43,
+      "sceneID": "Level1",
+      "date": "21.12.2021",
+      "replayLink": "https://djfrytek.github.io/replays/1Markos2-43.json"
+    },
+    {
+      "player": "jadom",
+      "time": 2.60,
+      "sceneID": "Level1",
+      "date": "21.12.2021",
+      "replayLink": "https://djfrytek.github.io/replays/1jadom2-60.json"
+    },
+    {
       "player": "DjFrytek",
       "time": 15.47,
       "sceneID": "Hell5",
