@@ -9,6 +9,20 @@
     },
     {
       "player": "OutOfCopper",
+      "time": 13.03,
+      "sceneID": "Level5",
+      "date": "11.02.2023",
+      "replayLink": "https://djfrytek.github.io/replays/5OutOfCopper13-03.json"
+    },
+    {
+      "player": "OutOfCopper",
+      "time": 2.40,
+      "sceneID": "Level1",
+      "date": "11.02.2023",
+      "replayLink": "https://djfrytek.github.io/replays/1OutOfCopper2-40.json"
+    },
+    {
+      "player": "OutOfCopper",
       "time": 6.65,
       "sceneID": "Level4",
       "date": "11.02.2023",
